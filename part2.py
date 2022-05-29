@@ -11,3 +11,9 @@ Hunter
 Hunter
 
 '''
+
+num = int(input("Enter a number:"))
+number = 0
+while number < num:
+  print("Hunter")
+  number = number + 1
